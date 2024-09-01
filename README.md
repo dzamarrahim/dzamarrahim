@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzamarrahim&label=Profile%20views&color=0e75b6&style=flat" alt="dzamarrahim" /> </p>
 
+<img align="right" alt="coding" width="400" src="img/coding1.gif">
+
 - 🔭 I’m currently working on [Website Geographic Information System](https://github.com/dzamarrahim/webgis)
 
 - 🌱 I’m currently learning **Tailwind CSS, CodeIgniter**
